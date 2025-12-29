@@ -8,7 +8,9 @@ Below is a summary of my audit experience across three categories: private audit
 
 I was one of 40 security researchers selected to participate in the Pashov Audit Group internship program. During the program, each security researcher was randomly assigned to two private audits. Based on performance, teamwork, and communication skills, only a subset of researchers were selected to pass the program and become eligible for future private audits. 
 
-I was one of the three researchers who successfully passed the program.  
+I was one of the three researchers who successfully passed the program.
+
+*(I use two nicknames: `Ragnarok` for public audits and `Shurikenzer` for private audits)*
 
 | Date | Audit Firm | Protocol | Description | Language | Report |
 |------|------------|----------|-------------|----------|--------|
