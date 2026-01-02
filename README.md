@@ -1,8 +1,6 @@
 ## Overview
 
-I have been a Web3 Security Researcher since August 2024, with a prior background as a software engineer. Currently, I primarily focus on auditing smart contracts on EVM-compatible blockchains. In addition, I'm able to review backend codebases for web applications written in Javascript and TypeScript. In the future, I plan to further expand my skill set to include security reviews of blockchain infrastructure codebases.
-
-Below is a summary of my audit experience across three categories: private audits, bug bounty programs, and competitive audits.
+I have been a Web3 Security Researcher since August 2024, with a prior background as a software engineer. Currently, I primarily focus on auditing smart contracts on EVM-compatible blockchains. In addition, I'm able to review backend codebases for web applications written in Javascript and TypeScript. Below is a summary of my audit experience across three categories: private audits, bug bounty programs, and competitive audits.
 
 ## Private Audits
 
